@@ -7,9 +7,9 @@ Police_Force,categorical
 Accident_Severity,categorical
 Number_of_Vehicles,numerical
 Number_of_Casualties,numerical
-Date,categorical
+Date,date
 Day_of_Week,categorical
-Time,categorical
+Time,time
 Local_Authority_District,categorical
 Local_Authority_Highway,categorical
 1st_Road_Class,categorical
